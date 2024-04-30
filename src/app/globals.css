@@ -26,8 +26,20 @@ body {
     rgb(var(--background-start-rgb));
 }
 
-@layer utilities {
-  .text-balance {
-    text-wrap: balance;
-  }
+
+/* Navbar CSS */
+.navbar li a{
+  display: block;
+  padding: 10px 20px;
+  margin-bottom: 5px;
 }
+.navbar li a:hover{
+  background-color: blue;
+}
+.navbar li a:focus{
+  background-color: blue;
+}
+
+
+
+
