@@ -39,6 +39,9 @@ body {
 .navbar li a:focus{
   background-color: blue;
 }
+.navbar li a:active{
+  background-color: blue;
+}
 
 
 

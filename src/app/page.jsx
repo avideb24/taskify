@@ -1,3 +1,4 @@
+import { KanbanBoard } from '@/components/KanbanBoard/KanbanBoard';
 import React from 'react';
 
 const OverviewPage = () => {
